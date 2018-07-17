@@ -1,5 +1,7 @@
 # FizzBuzzGo
 
+[![Build Status](https://travis-ci.org/jchampemont/fizzbuzzgo.svg?branch=master)](https://travis-ci.org/jchampemont/fizzbuzzgo)
+
 FizzBuzzGo is a simple fizz-buzz REST server written in Go.
 
 (Please be kind, this is my very first Go program.)
